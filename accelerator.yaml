@@ -1,9 +1,8 @@
 accelerator:
-  displayName: Cert/CA Starter Kit
-  description: Starter kit for a microservice utilizing certificate best practices.
+  displayName: My Second Kubernetes Microservice (Advanced Users)
+  description: Starter kit for a microservice utilizing production best practices for security and integration.
   iconUrl: https://<git repo>/padlock.png
   tags:
   - simple
   - getting-started
   - ATO-Fast-Track
-  - certificates
